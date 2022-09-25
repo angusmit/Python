@@ -1,2 +1,2 @@
 # Python
-Python useful tips projects and challenges
+Python useful tips, projects and challenges
