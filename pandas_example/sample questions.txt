@@ -1,0 +1,7 @@
+1. How many trades were done (segmented into long/short)?
+
+2. What was the hit ratio ( segmented into long/short )?  Hit ratio is defined as the percentage of winning trades out of all trades. 
+
+3. Provide a list of markets I traded in, with specific no. of trades per market, and individual market performance of both long and short (a dictionary with country code for tickers is attached herein - UV = US but traded OTC)
+
+4. What was the average holding period of my positions? Please segment this into individual markets. Trades with indexes should be omitted here (for instance, average holding period in Denmark was 2 weeks; average holding period in HK was 2 days, etc.)
